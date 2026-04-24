@@ -1,58 +1,49 @@
-<div align="right">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=3000&pause=1000&color=888888&width=300&lines=building+real+systems;production+first;flow+over+code" />
-</div>
-
 <h1 align="center">Vitor MJ</h1>
 
 <p align="center">
-  Software Engineer · ERP Systems · Production Reality
+  ERP · Systems · Production
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Vue-42b883?style=flat&logo=vue.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node-339933?style=flat&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Render-111827?style=flat"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=800&center=true&vCenter=true&width=700&lines=Systems+run+on+flow+not+screens;Bugs+start+in+logic+not+in+code;If+you+cannot+trace+it+you+cannot+fix+it" />
 </p>
 
 ---
 
 ### About
 
-I build systems that run real operations
+I build systems that run real operations.
 
-Currently developing a full ERP in production  
-covering sales, finance, fiscal workflows, production and marketplace
-
----
-
-### Approach
-
-Flow defines structure  
-Code follows
-
-Problems are solved at the source  
-not at the surface
-
-Every critical operation must be traceable
+Currently developing a full ERP in production.  
+Sales, finance, fiscal, production, marketplace.  
+Everything connected.
 
 ---
 
-### Scope
+### Work
 
-Commercial  
-Financial  
-Fiscal  
-Production  
-Marketplace  
-Audit  
-
-All connected
+- real world workflows  
+- multi domain systems  
+- fiscal integrations  
+- financial consistency  
+- operational traceability  
 
 ---
 
 ### Stack
 
-Vue · TypeScript · Supabase · PostgreSQL · Node · Render
+<p>
+  <img src="https://img.shields.io/badge/Vue-000000?style=flat&logo=vue.js&logoColor=42b883"/>
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=flat&logo=typescript&logoColor=3178C6"/>
+  <img src="https://img.shields.io/badge/Supabase-000000?style=flat&logo=supabase&logoColor=3ECF8E"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql&logoColor=336791"/>
+  <img src="https://img.shields.io/badge/Node-000000?style=flat&logo=node.js&logoColor=339933"/>
+</p>
+
+---
+
+### Notes
+
+Flow first  
+State is a consequence  
+Trace everything
