@@ -1,11 +1,21 @@
+<div align="right">
+  <a href="#pt-br">🇧🇷</a>
+  &nbsp;
+  <a href="#english">🇺🇸</a>
+  &nbsp;
+  <a href="#español">🇪🇸</a>
+  &nbsp;
+  <a href="#français">🇫🇷</a>
+</div>
+
 <h1 align="center">Vitor MJ</h1>
 
 <p align="center">
-  Systems • ERP • Production Reality
+  <strong>Software Engineer · ERP Systems · Production Reality</strong>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=16&pause=2000&color=888888&center=true&vCenter=true&width=435&lines=Building+systems+that+run+real+operations;Architecture+over+syntax;Flow+over+features" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=22&duration=2600&pause=900&center=true&vCenter=true&width=720&lines=I+build+systems+that+run+real+operations;Flow+first.+Code+second.;Production+is+where+software+becomes+real." />
 </p>
 
 <p align="center">
@@ -14,38 +24,28 @@
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node-339933?style=flat&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Render-111827?style=flat&logo=render&logoColor=white"/>
 </p>
 
 ---
 
-### About
+<h2 id="pt-br">🇧🇷 Português</h2>
 
-I build systems that run real operations
+### Sobre
 
-Currently developing a full ERP in production  
-connecting commercial, financial, fiscal, production and marketplace flows
+Construo sistemas que operam negócios reais.
 
----
+Atualmente desenvolvo um ERP completo em produção, integrando comercial, financeiro, fiscal, produção, marketplace, auditoria e segurança operacional em um fluxo único.
 
-### Approach
+### Forma de trabalho
 
-Systems are built around flow  
-not around screens  
+Penso em fluxo antes de pensar em tela.
 
-Every critical operation must be traceable  
+Debug começa na regra de negócio.
 
----
+Toda operação crítica precisa deixar rastro.
 
-### Scope
-
-Commercial  
-Financial  
-Fiscal  
-Production  
-Marketplace  
-Audit  
-
----
+Se o sistema não mostra onde quebrou, ele ainda não está pronto.
 
 ### Stack
 
@@ -53,70 +53,72 @@ Vue · TypeScript · Supabase · PostgreSQL · Node · Render
 
 ---
 
-## 🌍 Languages
+<h2 id="english">🇺🇸 English</h2>
 
-<details>
-<summary>🇧🇷 Português</summary>
+### About
 
-Construo sistemas que operam negócios reais
+I build systems that run real operations.
 
-Atualmente desenvolvendo um ERP completo em produção  
-conectando comercial, financeiro, fiscal, produção e marketplace
+Currently developing a full production ERP connecting sales, finance, fiscal workflows, production, marketplace, audit and operational security into one consistent flow.
 
-Sistemas são estruturados por fluxo  
-não por tela
+### Approach
 
-Cada operação crítica precisa ser rastreável
+Flow before screens.
 
-</details>
+Business logic before code.
 
-<details>
-<summary>🇺🇸 English</summary>
+Every critical operation must be traceable.
 
-I build systems that operate real businesses
+If the system cannot show where it failed, it is not ready yet.
 
-Currently developing a full ERP in production  
-connecting commercial, financial, fiscal, production and marketplace flows
+### Stack
 
-Systems are structured around flow  
-not screens
-
-Every critical operation must be traceable
-
-</details>
-
-<details>
-<summary>🇪🇸 Español</summary>
-
-Construyo sistemas que operan negocios reales
-
-Actualmente desarrollando un ERP completo en producción  
-conectando flujos comerciales, financieros, fiscales, de producción y marketplace
-
-Los sistemas se estructuran por flujo  
-no por pantallas
-
-Cada operación crítica debe ser rastreable
-
-</details>
-
-<details>
-<summary>🇫🇷 Français</summary>
-
-Je construis des systèmes qui font fonctionner de vraies opérations
-
-Actuellement en train de développer un ERP complet en production  
-connectant les flux commerciaux, financiers, fiscaux, de production et marketplace
-
-Les systèmes sont construits autour du flux  
-pas des écrans
-
-Chaque opération critique doit être traçable
-
-</details>
+Vue · TypeScript · Supabase · PostgreSQL · Node · Render
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USER&show_icons=true&hide_border=true&title_color=888888&text_color=aaaaaa&icon_color=42b883&bg_color=00000000"/>
-</p>
+<h2 id="español">🇪🇸 Español</h2>
+
+### Sobre mí
+
+Construyo sistemas que operan negocios reales.
+
+Actualmente desarrollo un ERP completo en producción, conectando ventas, finanzas, fiscal, producción, marketplace, auditoría y seguridad operacional en un flujo consistente.
+
+### Enfoque
+
+Flujo antes que pantallas.
+
+Regla de negocio antes que código.
+
+Toda operación crítica debe ser rastreable.
+
+Si el sistema no muestra dónde falló, todavía no está listo.
+
+### Stack
+
+Vue · TypeScript · Supabase · PostgreSQL · Node · Render
+
+---
+
+<h2 id="français">🇫🇷 Français</h2>
+
+### À propos
+
+Je construis des systèmes qui font tourner de vraies opérations.
+
+Je développe actuellement un ERP complet en production, reliant commerce, finance, fiscalité, production, marketplace, audit et sécurité opérationnelle dans un flux cohérent.
+
+### Approche
+
+Le flux avant les écrans.
+
+La logique métier avant le code.
+
+Toute opération critique doit être traçable.
+
+Si le système ne montre pas où il a échoué, il n’est pas encore prêt.
+
+### Stack
+
+Vue · TypeScript · Supabase · PostgreSQL · Node · Render
