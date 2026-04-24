@@ -1,54 +1,53 @@
 <h1 align="center">Vitor MJ</h1>
 
 <p align="center">
-  <strong>Software Engineer • ERP Architecture • Real-world Systems</strong>
+  Software Engineer · ERP Systems · Production Reality
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Vue-3-42b883?style=flat&logo=vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue-42b883?style=flat&logo=vue.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node-339933?style=flat&logo=node.js&logoColor=white"/>
 </p>
 
 ---
 
-### Sobre
+### About
 
-Desenvolvo sistemas orientados a operação real.
+I build systems that run real operations
 
-Atualmente construo e evoluo um ERP completo em produção, integrando comercial, financeiro, fiscal, produção e marketplace em um único fluxo consistente.
-
-O foco não é tecnologia isolada — é garantir que o sistema funcione sob pressão, com rastreabilidade e previsibilidade.
-
----
-
-### Abordagem
-
-- Estruturo sistemas por fluxo, não por tela  
-- Debug começa na regra de negócio, não no código  
-- Cada operação crítica precisa ser rastreável  
-- Clareza e consistência vêm antes de velocidade — mas sem abrir mão dela  
+Currently developing a full ERP in production  
+covering sales, finance, fiscal, production and marketplace flows
 
 ---
 
-### Escopo atual
+### Approach
 
-- ERP modular com múltiplos domínios integrados  
-- Integrações fiscais (NF-e / NFC-e) e financeiras  
-- Sistema multi-tenant com controle de contexto  
-- Marketplace com proteção comportamental  
-- Auditoria operacional e debug estruturado  
+Systems are built around flow  
+not around screens
+
+Problems are solved at the source  
+not masked at the surface
+
+Every critical operation must be traceable
+
+---
+
+### Scope
+
+Commercial  
+Financial  
+Fiscal  
+Production  
+Marketplace  
+Audit  
+
+All connected
 
 ---
 
 ### Stack
 
-Vue • TypeScript • Supabase • PostgreSQL • Node • Render  
-
----
-
-### Nota
-
-Se um sistema não permite identificar rapidamente onde e por que algo quebrou, ele ainda não está pronto.
+Vue · TypeScript · Supabase · PostgreSQL · Node · Render
